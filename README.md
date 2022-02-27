@@ -2,7 +2,7 @@
 
 
 
-![](https://media.istockphoto.com/illustrations/plum-blossom-illustration-id171159207?k=20&m=171159207&s=612x612&w=0&h=6CI8HKMjlbZNNtZ8LVkesyqDnzkm7v0TiyaTsAemjYw= "Analyzing & Forecasting)
+![](japanese art.jpg "Analyzing & Forecasting)
 
 
 
