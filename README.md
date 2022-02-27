@@ -2,7 +2,7 @@
 
 
 
-![](japanese art.jpg "Analyzing & Forecasting)
+![](/japanese art.jpg "Analyzing & Forecasting)
 
 
 
