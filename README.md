@@ -10,7 +10,3 @@
 - 📫 How to reach me **labrijisaad@gmail.com**
 
 
-<p align="left">
-<a href="https://discord.gg/labrijisaad#2166" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="labrijisaad#2166" height="30" width="40" /></a>
-</p>
-
