@@ -2,7 +2,7 @@
 
 
 
-![](https://cdn.britannica.com/45/1245-004-676A6721/Kanagawa-Wave-woodblock-colour-print-series-part.jpg "Analyzing & Forecasting)
+![](https://media.istockphoto.com/illustrations/plum-blossom-illustration-id171159207?k=20&m=171159207&s=612x612&w=0&h=6CI8HKMjlbZNNtZ8LVkesyqDnzkm7v0TiyaTsAemjYw= "Analyzing & Forecasting)
 
 
 
