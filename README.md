@@ -2,7 +2,7 @@
 
 
 
-![](https://thumbs.dreamstime.com/z/businessman-looking-far-economic-forecasting-concept-businessman-looking-far-economic-forecasting-concept-107596156.jpg "San Juan Mountains")
+![](https://cdn.britannica.com/45/1245-004-676A6721/Kanagawa-Wave-woodblock-colour-print-series-part.jpg "Analyzing & Forecasting)
 
 
 
