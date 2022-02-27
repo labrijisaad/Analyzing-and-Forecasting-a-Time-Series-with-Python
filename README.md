@@ -2,7 +2,7 @@
 
 
 
-![](/japanese art.jpg "Analyzing & Forecasting)
+![](https://drive.google.com/file/d/1ri_D1ZY3sUFDSj50iU6733p-lqxvaCde/view?usp=sharing "Analyzing & Forecasting)
 
 
 
