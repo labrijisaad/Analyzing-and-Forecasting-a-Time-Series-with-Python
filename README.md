@@ -2,8 +2,9 @@
 
 
 
-![](https://drive.google.com/file/d/1ri_D1ZY3sUFDSj50iU6733p-lqxvaCde/view?usp=sharing "Analyzing & Forecasting)
 
+
+![image](https://user-images.githubusercontent.com/74627083/155903506-dc9c41c8-ef9c-481e-adf1-cab534865997.png)
 
 
 - 🎯 The main objective of this project was to study a time series to approach and manipulate abstract notions that we have seen during the course on time series class. Among the things we did in this project: `the decomposition of the series`, `the study of each component`, `the stationarity test`, `the choice of the degree of the model`, `the learning of the latter and the forecast of future values`, and much more...
