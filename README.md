@@ -2,7 +2,7 @@
 
 
 
-![The San Juan Mountains are beautiful!](/assets/images/san-juan-mountains.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://thumbs.dreamstime.com/z/businessman-looking-far-economic-forecasting-concept-businessman-looking-far-economic-forecasting-concept-107596156.jpg "San Juan Mountains")
 
 
 
